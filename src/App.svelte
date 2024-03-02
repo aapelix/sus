@@ -1,6 +1,8 @@
 <script>
   import { onMount } from "svelte";
 
+  // SMSMSMM
+
   let response_url = "";
 
   function get_url() {
